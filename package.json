@@ -1,0 +1,23 @@
+{
+  "name": "chatappserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narutoobito/chat-server.git"
+  },
+  "author": "udit sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narutoobito/chat-server/issues"
+  },
+  "homepage": "https://github.com/narutoobito/chat-server#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
